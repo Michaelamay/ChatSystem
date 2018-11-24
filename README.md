@@ -1,1 +1,2 @@
 # ChatSystem
+A menu driven program that supports instant messaging and file transfer using a binary method.The chat system first asks the users to enter their name. It will then proceed to display a menu option in which the user can choose between 3 options. The user can either type "m" if they wish to send a message, "f" if they wish to request a file from a particular user, or "x" if they wish to leave the chat system.
