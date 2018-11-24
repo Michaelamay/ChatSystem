@@ -6,6 +6,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map.Entry;
+/*
+ * The server side of the program. It takes any incomming connections and adds the user's name and server port
+ * number to a hashmap.
+ */
+
 
 public class ChatServer {
 	
